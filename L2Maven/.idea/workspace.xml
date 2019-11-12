@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="02767f37-f4bf-4f05-8058-824de3883c24" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="FxmlFile" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1SjvYwNcX7HppgfjfrKbaBI0Q2K" />
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.krylov.software_design.lab_2" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java/com/krylov/software_design/lab_2" />
+      <recent name="$PROJECT_DIR$/src/test/java/com/krylov/software_design/lab_2" />
+      <recent name="$PROJECT_DIR$/src/test/resources" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.App">
+    <configuration name="VkClientTest (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="L2Maven" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.krylov.software_design.lab_2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.krylov.software_design.lab_2" />
+      <option name="MAIN_CLASS_NAME" value="com.krylov.software_design.lab_2.VkClientTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VkClientTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="L2Maven" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.krylov.software_design.lab_2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.krylov.software_design.lab_2" />
+      <option name="MAIN_CLASS_NAME" value="com.krylov.software_design.lab_2.VkClientTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VkClientTest.findByHashTagAndTime" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="L2Maven" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.krylov.software_design.lab_2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.krylov.software_design.lab_2" />
+      <option name="MAIN_CLASS_NAME" value="com.krylov.software_design.lab_2.VkClientTest" />
+      <option name="METHOD_NAME" value="findByHashTagAndTime" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VkClientTest.findByHashTagTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="L2Maven" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.krylov.software_design.lab_2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.krylov.software_design.lab_2" />
+      <option name="MAIN_CLASS_NAME" value="com.krylov.software_design.lab_2.VkClientTest" />
+      <option name="METHOD_NAME" value="findByHashTagTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="YetAnotherTest.someTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="L2Maven" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.krylov.software_design.lab_2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.krylov.software_design.lab_2" />
+      <option name="MAIN_CLASS_NAME" value="com.krylov.software_design.lab_2.YetAnotherTest" />
+      <option name="METHOD_NAME" value="someTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="App" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="L2Maven" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.krylov.software_design.lab_2.App" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.VkClientTest" />
+        <item itemvalue="JUnit.VkClientTest.findByHashTagAndTime" />
+        <item itemvalue="JUnit.VkClientTest.findByHashTagTest" />
+        <item itemvalue="JUnit.VkClientTest (1)" />
+        <item itemvalue="JUnit.YetAnotherTest.someTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="02767f37-f4bf-4f05-8058-824de3883c24" name="Default Changelist" comment="" />
+      <created>1572089870043</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1572089870043</updated>
+      <workItem from="1572089873803" duration="23643000" />
+      <workItem from="1572174580047" duration="2782000" />
+      <workItem from="1573382211933" duration="649000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-test/2.1.1.RELEASE/spring-boot-test-2.1.1.RELEASE.jar!/org/springframework/boot/test/context/ConfigFileApplicationContextInitializer.class</url>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
