@@ -1,0 +1,27 @@
+package com.krylov.software.design.graphs.drawing.figures;
+
+import java.util.Arrays;
+
+public class Line {
+    public int x1, y1, x2, y2;
+
+    public Line(int x1, int y1, int x2, int y2) {
+        this.x1 = x1;
+        this.y1 = y1;
+        this.x2 = x2;
+        this.y2 = y2;
+    }
+
+    public String toString() {
+        return x1 + " " + y1 + " " + x2 + " " + y2;
+    }
+
+    public Line(String s) {
+        this(
+                Integer.parseInt(Arrays.asList(s.split(" ")).get(0)),
+                Integer.parseInt(Arrays.asList(s.split(" ")).get(1)),
+                Integer.parseInt(Arrays.asList(s.split(" ")).get(2)),
+                Integer.parseInt(Arrays.asList(s.split(" ")).get(3))
+        );
+    }
+}
